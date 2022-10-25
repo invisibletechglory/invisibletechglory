@@ -1,4 +1,4 @@
-### Hi there for testing👋
+### Hi there 👋
 
 <!--
 **invisibletechglory/invisibletechglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
